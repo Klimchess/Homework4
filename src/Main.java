@@ -41,9 +41,9 @@ public class Main {
         int two = 2;
         int three = 3;
         if (one > two && one > three){System.out.println(one + " наибольшее число");}
-        else {System.out.println();}
+        else {
         if (two > three){System.out.println( two + " наибольшее число");}
-        else {System.out.println(three + " наибольшее число");}
+        else {System.out.println(three + " наибольшее число");}}
 
 
 
